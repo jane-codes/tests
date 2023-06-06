@@ -1,0 +1,16 @@
+{
+  "name": "quickstart-nodejs",
+  "version": "1.0.0",
+  "description": "Quickstarts for Firebase services in Node.js",
+  "scripts": {
+    "compile": "pnpm -r --workspace-concurrency=4 --aggregate-output run compile",
+    "bootstrap": "pnpm install -r"
+  },
+  "author": "Firebase",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/node": "^20.1.7",
+    "pnpm": "^8.5.1",
+    "typescript": "^5.0.4"
+  }
+}

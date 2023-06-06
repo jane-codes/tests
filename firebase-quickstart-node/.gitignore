@@ -1,0 +1,7 @@
+**/secrets.json
+*-debug.log
+**/node_modules
+**/*.bak
+.idea
+
+*/tsconfig.json
